@@ -242,7 +242,7 @@ file (you may have used `git add .`, which will work too);
 `git commit -m "first commit"` commits the newly created `README.md` file with a
 message.
 
-The remaining commands still need to be run. First we run the following:
+The remaining commands still need to be run efficiently. First we run the following:
 
 ```console
 $ git branch -M main
